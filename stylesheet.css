@@ -52,7 +52,7 @@ header {
 }
 
 .top-wrapper {
-  background-image: url(https://prog-8.com/images/html/advanced/top.png);
+  background-image: url(top.png);
   background-size: cover;
 }
 
